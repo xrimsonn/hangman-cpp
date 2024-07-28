@@ -1,2 +1,2 @@
-# hangman-cpp
-hangman game
+# Hangman C++
+examplehangman game
