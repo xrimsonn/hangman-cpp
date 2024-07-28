@@ -1,0 +1,3 @@
+/home/antonio/CLionProjects/hangman-cpp/cmake-build-debug/CMakeFiles/hangman_cpp.dir
+/home/antonio/CLionProjects/hangman-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/antonio/CLionProjects/hangman-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
